@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about blockchain, cryptocurrency and the impact technology has on our day to day interactions. 
 - 🔎 I’m looking for developers who are interested in re-invention and learning new things.
 - 💬 Ask me about how to improve your CV so companies can understand your profile better.
-- 📫 Wondering how to reach me? Connect with me through LinkedIn or contact me by email to sara.ge@globant.com and I´ll be in touch as fast as I can. 
+- 📫 Wondering how to reach me? Connect with me through LinkedIn or contact me by email at sara.ge@globant.com and I´ll be in touch as fast as I can. 
 
 <!---
 sa-goes/sa-goes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
